@@ -1,0 +1,10 @@
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\bin\Debug\Planet05.exe
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\bin\Debug\Planet05.pdb
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\bin\Debug\ShadowEngine.dll
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\bin\Debug\Tao.OpenGl.dll
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\bin\Debug\ShadowEngine.pdb
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\obj\x86\Debug\Planet05.FormMain.resources
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\obj\x86\Debug\Planet05.Properties.Resources.resources
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\obj\x86\Debug\Planet05.csproj.GenerateResource.Cache
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\obj\x86\Debug\Planet05.exe
+C:\Users\redeivent\Desktop\New folder\Planet05\Planet05\obj\x86\Debug\Planet05.pdb
